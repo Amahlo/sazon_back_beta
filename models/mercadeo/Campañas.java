@@ -2,6 +2,7 @@ import java.time.LocalDate;
 
 public class Campañas {
 
+    
     private Long id;
     private String nombre;
     private String descripción;
